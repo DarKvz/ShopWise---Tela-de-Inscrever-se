@@ -1,0 +1,261 @@
+.sign-up {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sign-up .div {
+  background-color: #ffffff;
+  width: 428px;
+  height: 926px;
+  position: relative;
+}
+
+.sign-up .overlap {
+  position: absolute;
+  width: 410px;
+  height: 579px;
+  top: 155px;
+  left: 16px;
+}
+
+.sign-up .text {
+  position: absolute;
+  width: 306px;
+  height: 579px;
+  top: 0;
+  left: 26px;
+}
+
+.sign-up .text-wrapper {
+  position: absolute;
+  width: 236px;
+  top: 0;
+  left: 1px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 1.2px;
+  line-height: 25.9px;
+}
+
+.sign-up .text-wrapper-2 {
+  position: absolute;
+  width: 279px;
+  top: 33px;
+  left: 0;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #979797;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: 19.5px;
+}
+
+.sign-up .voc-tem-uma-conta-fa {
+  position: absolute;
+  width: 261px;
+  top: 561px;
+  left: 39px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  line-height: 15.1px;
+  white-space: nowrap;
+}
+
+.sign-up .span {
+  color: #4d4d4d;
+}
+
+.sign-up .text-wrapper-3 {
+  color: #ffb61d;
+}
+
+.sign-up .sign-up-komponen {
+  position: absolute;
+  width: 410px;
+  height: 340px;
+  top: 89px;
+  left: 0;
+}
+
+.sign-up .text-wrapper-4 {
+  position: absolute;
+  width: 83px;
+  top: 0;
+  left: 17px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #979797;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: 19.5px;
+}
+
+.sign-up .text-wrapper-5 {
+  width: 115px;
+  top: 111px;
+  left: 17px;
+  font-weight: 400;
+  color: #979797;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: 19.5px;
+  position: absolute;
+  font-family: "Open Sans", Helvetica;
+}
+
+.sign-up .text-wrapper-6 {
+  position: absolute;
+  width: 188px;
+  top: 247px;
+  left: 17px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 400;
+  color: #979797;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  line-height: 19.5px;
+}
+
+.sign-up .group {
+  width: 406px;
+  height: 68px;
+  top: 25px;
+  position: absolute;
+  left: 0;
+}
+
+.sign-up .overlap-group {
+  position: relative;
+  width: 404px;
+  height: 68px;
+  background-color: #f2f3f7;
+  border-radius: 15px;
+}
+
+.sign-up .text-wrapper-7 {
+  position: absolute;
+  width: 153px;
+  top: 24px;
+  left: 22px;
+  -webkit-text-stroke: 0.15px #a1a4b2;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 300;
+  color: #a1a4b2;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  line-height: 17.3px;
+  white-space: nowrap;
+}
+
+.sign-up .overlap-wrapper {
+  width: 406px;
+  height: 68px;
+  top: 136px;
+  position: absolute;
+  left: 0;
+}
+
+.sign-up .text-wrapper-8 {
+  width: 130px;
+  top: 24px;
+  left: 21px;
+  -webkit-text-stroke: 0.15px #a1a4b2;
+  font-weight: 300;
+  color: #a1a4b2;
+  font-size: 16px;
+  letter-spacing: 0.8px;
+  line-height: 17.3px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Open Sans", Helvetica;
+}
+
+.sign-up .overlap-group-wrapper {
+  width: 406px;
+  height: 68px;
+  top: 272px;
+  position: absolute;
+  left: 0;
+}
+
+.sign-up .botton {
+  position: absolute;
+  width: 393px;
+  height: 66px;
+  top: 472px;
+  left: 0;
+}
+
+.sign-up .div-wrapper {
+  position: relative;
+  width: 391px;
+  height: 66px;
+  background-image: url(./img/rectangle-210.png);
+  background-size: 100% 100%;
+}
+
+.sign-up .text-wrapper-9 {
+  position: absolute;
+  width: 167px;
+  top: 25px;
+  left: 128px;
+  font-family: "Open Sans", Helvetica;
+  font-weight: 700;
+  color: #f6f1fa;
+  font-size: 14px;
+  letter-spacing: 0.7px;
+  line-height: 15.1px;
+  white-space: nowrap;
+}
+
+.sign-up .back-botton {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  top: 57px;
+  left: 15px;
+}
+
+.sign-up .overlap-2 {
+  position: relative;
+  height: 55px;
+  border-radius: 38px;
+}
+
+.sign-up .group-2 {
+  width: 55px;
+  height: 55px;
+  top: 0;
+  border-radius: 38px;
+  border: 1px solid;
+  border-color: #ebeaec;
+  transform: rotate(-180deg);
+  position: absolute;
+  left: 0;
+}
+
+.sign-up .vector {
+  position: absolute;
+  width: 19px;
+  height: 18px;
+  top: 19px;
+  left: 18px;
+}
+
+.text-wrapper-9 {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.text-wrapper-3 {
+  display: inline-block;
+  cursor: pointer;
+}
